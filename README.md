@@ -2,7 +2,7 @@
 
 These data have the time When the stock market opened, closed, was high and low. Periodically I have embeded 7 data and gotten 1 output. Also I used 70% of data for the trainning and 30% of data for the evaluation. And I make a test and get a result.   
 
-# Explaination (Classification and Object Detection)
+# Explaination
 
 # 1. Data
 
